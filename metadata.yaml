@@ -18,6 +18,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Helen_Hunt_Jackson
 description: '- California and Oregon. - Scotland and England. - Norway, Denmark,
   and Germany.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42009#Glimpses-of-Three-Coasts
 gutenberg_issued: '2013-02-04'
 gutenberg_type: Text
 identifiers:
